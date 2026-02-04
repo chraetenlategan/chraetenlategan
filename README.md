@@ -3,14 +3,16 @@
 <!--
 **chraetenlategan/chraetenlategan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+o     👋 Hi, I’m Chraeten Latehan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+o      🎓 First year student Bachelor of Computing Belgium Campus iTversity 
+
+o      🌱 Passionate about AI, IoT, Data and  
+
+o       💼 Seeking internship/graduate opportunities and experience
+
+🚀 Skills
+
+o        Programming: Python, SQL, Delphi
+
+
