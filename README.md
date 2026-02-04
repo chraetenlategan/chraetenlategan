@@ -1,15 +1,13 @@
-## Hi there 👋
+👋 Hi, I’m Chraeten Latehan  
 
-o     👋 Hi, I’m Chraeten Latehan
+🎓 First-year Bachelor of Computing student at Belgium Campus iTversity  
 
-o      🎓 First year student Bachelor of Computing Belgium Campus iTversity 
+🌱 Interested in building practical tech solutions using Python, data, and automation  
+🧠 Currently learning: Python, SQL, basic data structures, and problem-solving  
 
-o      🌱 Passionate about AI, IoT, Data and  
+💼 Open to internship and graduate opportunities where I can learn fast and contribute  
 
-o       💼 Seeking internship/graduate opportunities and experience
-
-🚀 Skills
-
-o        Programming: Python, SQL, Delphi
-
-
+🚀 Skills  
+- Programming: Python, SQL, Delphi  
+- Tools: GitHub, VS Code  
+- Strengths: Logical thinking, discipline, consistency
