@@ -1,13 +1,22 @@
-👋 Hi, I’m Chraeten Latehan  
+👋 Hi, I'm Chraeten Lategan
 
-🎓 First-year Bachelor of Computing student at Belgium Campus iTversity  
+🎓 First-year Bachelor of Computing student at Belgium Campus iTversity
 
-🌱 Interested in building practical tech solutions using Python, data, and automation  
-🧠 Currently learning: Python, SQL, basic data structures, and problem-solving  
+💼 Currently working at VDM Auditors, where I develop automation systems that improve business processes and efficiency.
 
-💼 Open to internship and graduate opportunities where I can learn fast and contribute  
+🌱 Interested in building practical technology solutions using Python, C#, SQL, automation, and data.
 
-🚀 Skills  
-- Programming: Python, SQL, Delphi  
-- Tools: GitHub, VS Code  
-- Strengths: Logical thinking, discipline, consistency
+🧠 Currently learning:
+
+Agentic AI development
+Claude Code
+Software engineering best practices
+Data structures and algorithms
+
+🚀 Skills
+
+Programming: Python, C#, SQL, Delphi
+Tools: Git, GitHub, VS Code, Claude Code
+Interests: Automation, AI agents, Data Science, Software Development
+Strengths: Logical thinking, discipline, consistency, continuous learning
+
