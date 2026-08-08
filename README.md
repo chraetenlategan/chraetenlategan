@@ -3,7 +3,7 @@
 </h1>
 
 ## **🎓 Education**
-<a href="https://www.belgiumcampus.ac.za/"><img src="https://pbs.twimg.com/profile_images/1963155565640667136/W_aZJSVE_400x400.jpg" width="50" align="left" style="margin-right:12px;border-radius:8px;" /></a>
+<img src="https://pbs.twimg.com/profile_images/1963155565640667136/W_aZJSVE_400x400.jpg" width="50" align="left" style="margin-right:12px;border-radius:8px;" />
 Belgium Campus iTversity — Bachelor of Computing (1st year)
 <br clear="left"/>
 
