@@ -17,3 +17,9 @@ VDM Auditors — automation systems for business documents
 
 ### Tools
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzAivJL5nCfVrKC2X6hIwJTXCTFhamiASmnkaDrxczaA&s=10" height="36" alt="Claude Code" /><img src="https://skillicons.dev/icons?i=github,discord,vscode,linux" height="36" alt="GitHub, Discord, VS Code, Linux" /><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="36" alt="Excel" /></p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chraetenlategan&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
+</p>
